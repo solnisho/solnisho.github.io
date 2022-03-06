@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    background-color: rgba(255, 179, 203, 1);
+    height: 20px;
+}
+
+.image{
+    color: rgba(116, 12, 192, 1)
+}
+
+.image a {
+    color: yellow;
+}
+
+.love2{
+    color:rgba(0, 64, 0, 1);
+}
+
+.main-menu{
+    top: 5px;
+    right: 10px;
+    gap: 1rem;
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    float:right;
+}
+
+.sun{
+    float: left;
+    opacity: 0.8;
+}
+
+.love{
+    position:absolute;
+    width:100%;
+    top:50%;
+    text-align:center;
+}
+
+.mylove{
+    text-align:center;
+}
+
+.image{
+    height: 977px;
+}
+
+.sun1{
+    background-color: rgba(255, 179, 203, 1);
+}
+
+.sun2{
+    background-color: rgba(255, 179, 203, 1);
+}
+
+.sun3{
+    background-color: rgba(255, 179, 203, 1);
+}
+
+.sun4{
+    background-color: rgba(255, 179, 203, 1);
+}
