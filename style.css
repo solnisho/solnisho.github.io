@@ -32,7 +32,7 @@
 
 .sun{
     float: left;
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .love{
@@ -44,10 +44,6 @@
 
 .mylove{
     text-align:center;
-}
-
-.image{
-    height: 977px;
 }
 
 .sun1{
